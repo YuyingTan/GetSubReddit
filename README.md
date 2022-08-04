@@ -1,5 +1,5 @@
 # GetSubReddit
-I wrote this python code for my research. By using PRAW library, the code can collect the latest hot posts/comments/meta data from assigned subreddit communities. This code can help people who want to learn collecting data from Reddit using Python and API.
+I wrote this python code for my research. By using PRAW library, the code can collect the latest hot posts/comments/meta data from selected subreddit communities. This code can help people who want to learn collecting data from Reddit using Python and API.
 
 # How to use
 You can open the Scraping Reddit.ipynb in your Jupyter Notebook to see how it works, I wrote notes for every part of codes. I also described the general steps in the code as follow:
