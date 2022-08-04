@@ -30,4 +30,4 @@ After finishing all the steps, you can get the collected data stored as .csv fil
 
 It is first time I share some codes on Github, if anything unclear or inappropriate, welcome contact me for improving!
 
-Thank you for your support!
+Thanks for your support!
