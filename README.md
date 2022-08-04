@@ -18,7 +18,7 @@ Go to https://www.reddit.com/prefs/apps/ and register then get your secret, id e
 In the Scraping Reddit.ipynb file you can find a function that I created to get posts and meta data related to each post (user id, username, subreddit, title, score meaning the number of upvotes for the submission, number of comments, self-text, created time, pinned, total awards received, upvote ratio, url of the post).
 
 ### Step 3.2: Create a function to get not only posts and meta data, but also the comments from the subreddit community you choose in Step 1.
-In this step I collected not only the posts and meta data as mentioned in Step 2.1, but also the comments under each post. The meta data of the comment include comment id, comment parent id (which help you map with the post), comment body text, comment link.
+In this step I collected not only the posts and meta data as mentioned in Step 3.1, but also the comments under each post. The meta data of the comment include comment id, comment parent id (which help you map with the post), comment body text, comment link.
 
 ### Step 4: Call the function to collect data from Reddit
 In the Scraping Reddit.ipynb file you can see example of how to call the function and the result data. 
