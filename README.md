@@ -28,6 +28,6 @@ After finishing all the steps, you can get the collected data stored as .csv fil
 
 
 
-It is first time I share some codes on Github, if anything unclear or inappropriate, welcome contact me for improving!
+It is first time I share some codes on Github, if anything unclear or inappropriate, please contact me!
 
 Thanks for your support!
