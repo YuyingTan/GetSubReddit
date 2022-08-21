@@ -27,9 +27,7 @@ After finishing all the steps, you can get the collected data stored as .csv fil
 
 
 ### Update new function: a function to get the self-posts and comments with certain keyword in post title
-Function in the file <Scrap Reddit with keyword>
-
-
+Function in the file - Scrap Reddit with keyword
 
 
 It is first time I share some codes on Github, if anything unclear or inappropriate, please contact me!
